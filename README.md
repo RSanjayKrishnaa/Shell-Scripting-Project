@@ -19,9 +19,3 @@ This repository contains a collection of **Shell Scripting Projects** created to
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SanthoshKumar1903/Shell-Scripting-Projects.git
-   cd Shell-Scripting-Projects
